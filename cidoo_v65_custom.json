@@ -4,7 +4,7 @@
   "productId": "0x7777",
   "lighting": {
     "extends": "qmk_rgblight"
-  },												
+  },
   "matrix": {
     "rows": 5,
     "cols": 16
